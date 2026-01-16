@@ -1,2 +1,2 @@
 ## Hello Friends
-https://poi277.github.io/
+blog : https://poi277.github.io/
